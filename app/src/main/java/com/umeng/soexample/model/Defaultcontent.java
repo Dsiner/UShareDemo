@@ -1,0 +1,14 @@
+package com.umeng.soexample.model;
+
+
+/**
+ * Created by wangfei on 16/7/12.
+ */
+public class Defaultcontent {
+    public final static String text = "欢迎使用【、友盟+】社会化组件U-Share，SDK包最小，集成成本最低，助力您的产品开发、运营与推广";
+    public final static String title = "【友盟+】社会化组件U-Share";
+    public final static String imageurl = "https://mobile.umeng.com/images/pic/home/social/img-1.png";
+    public final static String url = "https://mobile.umeng.com/";
+    public final static String musicurl = "http://music.huoxing.com/upload/20130330/1364651263157_1085.mp3";
+    public final static String videourl = "http://video.sina.com.cn/p/sports/cba/v/2013-10-22/144463050817.html";
+}
